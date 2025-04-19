@@ -18,7 +18,7 @@
 - **Computer Vision** using yolo model
 
 📬 Feel free to connect or collaborate — I’m always open to learning and building with others!  
-📧 How to reach me: [LinkedIn](www.linkedin.com/in/sami-ramzi-rezig-8ba2b8295) | Email: sami_ramzi.rezig@g.enp.edu.dz
+📧 How to reach me: [LinkedIn](https://www.linkedin.com/in/sami-ramzi-rezig-8ba2b8295/) | Email: sami_ramzi.rezig@g.enp.edu.dz
 
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love mixing tech with creativity — from coding to designing data dashboards!
