@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Sami Ramzi Rezig (@Samii05)
 
-🎓 I’m a 4th-year engineering student at the National Polytechnic School of Algiers, specializing in **Data Science and Artificial Intelligence** within the Department of Industrial Engineering.
+🎓 I’m currently a Master’s student in Computer Science (Data and AI oriented) at the Institute of Communication, Université Lumière Lyon 2, after completing four years of studies in Data Science and Artificial Intelligence at the National Polytechnic School of Algiers
 
 📊 I'm passionate about **data** — discovering patterns, uncovering trends, and transforming raw data into meaningful insights.
 
